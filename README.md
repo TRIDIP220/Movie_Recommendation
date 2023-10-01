@@ -3,7 +3,7 @@ It’s a content Based Movie Recommendation System.Fetch the data from Tmdb site
 
 Technology-stack:-Numpy: Used for working with arrays, Pandas: Used for data analysis,Sklearn: Used for making use of Machine learning tools,Frontend:Streamlit
 
-Ml-algorithm:-SVM
+Ml-algorithm:-SVM,
 Data set:-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 <br>
