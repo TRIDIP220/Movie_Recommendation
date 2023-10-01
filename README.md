@@ -26,7 +26,7 @@ $ pip install streamlit
 $ streamlit hello
 ```
 
-If this opens our sweet _Streamlit Hello_ app in your browser, you're all set! If not, head over to [our docs](https://docs.streamlit.io/library/get-started) for specific installs.
+
 
 The app features a bunch of examples of what you can do with Streamlit. Jump to the [quickstart](#quickstart) section to understand how that all works.
 
